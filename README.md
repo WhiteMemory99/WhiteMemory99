@@ -1,16 +1,15 @@
-### Hi there 👋
+### Oh, hey there! 👋
 
-<!--
-**WhiteMemory99/WhiteMemory99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer that mainly uses __Python__... And _secretly_ loves __Kotlin__, but don't tell anyone! I also
+play around with __Rust__ sometimes.  
+🚀 Lately, I've been focused on
+developing [Python Inlay Params](https://github.com/WhiteMemory99/Intellij-Python-Inlay-Params) plugin.
 
-Here are some ideas to get you started:
+##### My languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Russian 🇷🇺
+- English 🇺🇸
+
+#### Contact me on Telegram
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/White_Memory)
